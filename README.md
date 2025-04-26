@@ -15,6 +15,13 @@ This tool uses Google Gemini's Generative AI to convert natural language queries
 - **SQL Query Generation**: Users can ask natural language questions about the OEE data. The app uses a Generative AI model to convert these questions into SQL queries and execute them on the uploaded data.
   
 - **Interactive Dashboard**: The results of SQL queries are displayed interactively within the app, allowing users to explore the data with ease.
+- ## Screenshot
+
+![Dashboard Screenshot](Images/SS1.png)
+![](Images/SS2.png)
+![](Images/SS3.png)
+
+
 
 ## Requirements
 
